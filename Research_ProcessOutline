@@ -1,0 +1,23 @@
+Enter website or IP and have the script gather intell from the follow sites & output all data to a text file. 
+1. databases 
+	    https://www.exploit-db.com/google-hacking-database
+2. certification transparency 
+	    https://transparencyreport.google.com/https/certificates
+3. guess hostname 
+	    nslookup URL or IP
+4. web servers, networks, SSL/TLS, hosting history, sender policy framework
+	    https://sitereport.netcraft.com/
+5. platform identification and CVE Searching (identifies web app program languages, frameworks..)
+	    https://www.wappalyzer.com/
+	    https://builtwith.com/
+6. possible attack surfaces and vulnerabilities 
+	    https://www.shodan.io/
+7. entry points
+	    https://censys.io/
+8. find sensitive info
+	    https://pastebin.com 
+      
+      
+Tools & Resources:
+  Beatutiful Soup 
+  

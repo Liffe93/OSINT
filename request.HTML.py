@@ -1,6 +1,6 @@
 import requests
 #enter URL 
-res = requsets.get('URL')
+res = requests.get('URL')
 #ensure the request worked
 type(res)
 res.status_code == requests.code.ok

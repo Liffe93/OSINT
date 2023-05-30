@@ -3,7 +3,7 @@ import requests
 res = requests.get('URL')
 #ensure the request worked
 type(res)
-res.status_code == requests.code.ok
+res.status_code == requests.codes.ok
 #see how long the request is
 len(res.text)
 #print fris 250 lines of HTMl code
